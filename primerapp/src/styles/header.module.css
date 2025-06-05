@@ -1,0 +1,8 @@
+header{background-color: #e4f6c2; display: flex; justify-content: space-between; width: 100%; align-content: center; align-items: center; }
+ol{list-style: none; display: flex; width: 910px; justify-content: flex-end;}
+ol>li>a,
+button{text-decoration: none; color: #404040; font-weight: bolder; width: 100px; background-color: #e4f6c2; height: 50px; border:2px solid #404040; align-content: center; border-radius: 200px; }
+li{margin: 5px; padding: 5px;  display: flex; text-align: center;}
+li>a:hover,
+button:hover{cursor:pointer;background:#404040; color:#e4f6c2; font-size:large; transition: 0.3s;}
+img{width: 74px; align-content: center;}

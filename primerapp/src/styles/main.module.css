@@ -1,4 +1,1 @@
-main{width: 100%;}
-.card{height: 200px; width: 140px; background-color: #e4f6c2; border-radius: 20px; align-content: center; align-items: center; position: relative;}
-
-.contentCard{display: flex ; flex-direction: row; width: 90%; margin: 5px; position: relative;justify-content: space-between; flex-wrap: wrap;}
+/*.contentCard{display:flex; flex-direction: row; flex-wrap: wrap;width: 100%;justify-content: space-around;} */
